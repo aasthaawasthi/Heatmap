@@ -1,0 +1,4 @@
+Array have 100 indices, from 0 to 99.
+User will insert input and it will be get stored in this array. 
+The function heatmap will return the computed array containing the heatmap.
+When user enter the last input, i.e., input having end as 100, the funtion will stop taking input and return the heatmap.
